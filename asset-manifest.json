@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/css/main.2b58b152.css",
+    "main.js": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/js/main.1e93879f.js",
+    "static/js/592.d6eaca54.chunk.js": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/js/592.d6eaca54.chunk.js",
+    "static/media/herobg3.jpg": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/media/herobg3.376fc9a4f4b6b98ccc56.jpg",
+    "static/media/herobg1.jpg": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/media/herobg1.1e01daadf36d6b4ead19.jpg",
+    "static/media/herobg2.jpg": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/media/herobg2.fe6b24137225367884df.jpg",
+    "index.html": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/index.html",
+    "main.2b58b152.css.map": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/css/main.2b58b152.css.map",
+    "main.1e93879f.js.map": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/js/main.1e93879f.js.map",
+    "592.d6eaca54.chunk.js.map": "/%3Chttps://Abhiiix0.github.io/Rick&Morty%3E/static/js/592.d6eaca54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b58b152.css",
+    "static/js/main.1e93879f.js"
+  ]
+}
